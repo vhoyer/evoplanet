@@ -1,0 +1,4 @@
+401 - Campo(s) não preenchidos.
+402 - Campo Senha e campo Confirmar Senha não são compativeis.
+403 - Nome ou Senha não foram preenchidos corretamente ou não existem.
+404 - Nome de cadastro ja existente, tente outro.

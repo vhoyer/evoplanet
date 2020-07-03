@@ -1,0 +1,67 @@
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\Teste\Feudo\Feudo\bin\Debug\Feudo.exe.config
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\Teste\Feudo\Feudo\obj\Debug\Feudo.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\Teste\Feudo\Feudo\obj\Debug\Feudo.frmFeudalismo.resources
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\Teste\Feudo\Feudo\obj\Debug\Feudo.frmMapa_Feudalismo.resources
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\Teste\Feudo\Feudo\obj\Debug\Feudo.Properties.Resources.resources
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\Teste\Feudo\Feudo\obj\Debug\Feudo.csproj.GenerateResource.Cache
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\Teste\Feudo\Feudo\bin\Debug\Feudo.exe
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\Teste\Feudo\Feudo\bin\Debug\Feudo.pdb
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\Teste\Feudo\Feudo\obj\Debug\Feudo.exe
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\Teste\Feudo\Feudo\obj\Debug\Feudo.pdb
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\Teste\Feudo\Feudo\obj\Debug\Feudo.frmTowerDefense.resources
+C:\Users\ALUNOS\Downloads\Feudo\Feudo\Feudo\bin\Debug\Feudo.exe.config
+C:\Users\ALUNOS\Downloads\Feudo\Feudo\Feudo\obj\Debug\Feudo.exe
+C:\Users\ALUNOS\Downloads\Feudo\Feudo\Feudo\obj\Debug\Feudo.pdb
+C:\Users\ALUNOS\Downloads\Feudo\Feudo\Feudo\bin\Debug\Feudo.exe
+C:\Users\ALUNOS\Downloads\Feudo\Feudo\Feudo\bin\Debug\Feudo.pdb
+C:\Users\ALUNOS\Downloads\Feudo\Feudo\Feudo\obj\Debug\Feudo.csprojResolveAssemblyReference.cache
+C:\Users\ALUNOS\Downloads\Feudo\Feudo\Feudo\obj\Debug\Feudo.frmFeudalismo.resources
+C:\Users\ALUNOS\Downloads\Feudo\Feudo\Feudo\obj\Debug\Feudo.frmMapa_Feudalismo.resources
+C:\Users\ALUNOS\Downloads\Feudo\Feudo\Feudo\obj\Debug\Feudo.Properties.Resources.resources
+C:\Users\ALUNOS\Downloads\Feudo\Feudo\Feudo\obj\Debug\Feudo.frmTowerDefense.resources
+C:\Users\ALUNOS\Downloads\Feudo\Feudo\Feudo\obj\Debug\Feudo.csproj.GenerateResource.Cache
+C:\Users\ALUNOS\Documents\Feudo\Feudo\Feudo\bin\Debug\Feudo.exe.config
+C:\Users\ALUNOS\Documents\Feudo\Feudo\Feudo\obj\Debug\Feudo.exe
+C:\Users\ALUNOS\Documents\Feudo\Feudo\Feudo\obj\Debug\Feudo.pdb
+C:\Users\ALUNOS\Documents\Feudo\Feudo\Feudo\bin\Debug\Feudo.exe
+C:\Users\ALUNOS\Documents\Feudo\Feudo\Feudo\bin\Debug\Feudo.pdb
+C:\Users\ALUNOS\Documents\Feudo\Feudo\Feudo\obj\Debug\Feudo.csprojResolveAssemblyReference.cache
+C:\Users\ALUNOS\Documents\Feudo\Feudo\Feudo\obj\Debug\Feudo.frmFeudalismo.resources
+C:\Users\ALUNOS\Documents\Feudo\Feudo\Feudo\obj\Debug\Feudo.frmMapa_Feudalismo.resources
+C:\Users\ALUNOS\Documents\Feudo\Feudo\Feudo\obj\Debug\Feudo.Properties.Resources.resources
+C:\Users\ALUNOS\Documents\Feudo\Feudo\Feudo\obj\Debug\Feudo.frmTowerDefense.resources
+C:\Users\ALUNOS\Documents\Feudo\Feudo\Feudo\obj\Debug\Feudo.csproj.GenerateResource.Cache
+J:\ \Feudo\Feudo\Feudo\bin\Debug\Feudo.exe.config
+J:\ \Feudo\Feudo\Feudo\obj\Debug\Feudo.exe
+C:\Users\Matheus\Desktop\Feudo\Feudo\Feudo\bin\Debug\Feudo.exe.config
+C:\Users\Matheus\Desktop\Feudo\Feudo\Feudo\obj\Debug\Feudo.exe
+C:\Users\Matheus\Desktop\Feudo\Feudo\Feudo\bin\Debug\Feudo.exe
+C:\Users\Matheus\Desktop\Feudo\Feudo\Feudo\bin\Debug\Feudo.pdb
+C:\Users\Matheus\Desktop\Feudo\Feudo\Feudo\obj\Debug\Feudo.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Desktop\Feudo\Feudo\Feudo\obj\Debug\Feudo.frmFeudalismo.resources
+C:\Users\Matheus\Desktop\Feudo\Feudo\Feudo\obj\Debug\Feudo.frmMapa_Feudalismo.resources
+C:\Users\Matheus\Desktop\Feudo\Feudo\Feudo\obj\Debug\Feudo.Properties.Resources.resources
+C:\Users\Matheus\Desktop\Feudo\Feudo\Feudo\obj\Debug\Feudo.frmTowerDefense.resources
+C:\Users\Matheus\Desktop\Feudo\Feudo\Feudo\obj\Debug\Feudo.csproj.GenerateResource.Cache
+C:\Users\Matheus\Desktop\Feudo\Feudo\Feudo\obj\Debug\Feudo.pdb
+C:\Users\Matheus\Desktop\Feudo\Feudo\Feudo\obj\Debug\Feudo.frmInstruções.resources
+C:\Users\Matheus\Desktop\Feudo\Feudo\Feudo\obj\Debug\Feudo.frmInstruções_de_Mapa.resources
+F:\ \Jogo Atualizado\Feudo\Feudo\Feudo\Feudo\bin\Debug\Feudo.exe.config
+F:\ \Jogo Atualizado\Feudo\Feudo\Feudo\Feudo\obj\Debug\Feudo.exe
+F:\ \Jogo Atualizado\Feudo\Feudo\Feudo\Feudo\obj\Debug\Feudo.pdb
+C:\Users\ALUNOS\Desktop\Feudo\Feudo\bin\Debug\Feudo.exe.config
+C:\Users\ALUNOS\Desktop\Feudo\Feudo\obj\Debug\Feudo.exe
+C:\Users\ALUNOS\Desktop\Feudo\Feudo\obj\Debug\Feudo.pdb
+C:\Users\ALUNOS\Desktop\Feudo\Feudo\bin\Debug\Feudo.exe
+C:\Users\ALUNOS\Desktop\Feudo\Feudo\bin\Debug\Feudo.pdb
+C:\Users\ALUNOS\Desktop\Feudo\Feudo\obj\Debug\Feudo.csprojResolveAssemblyReference.cache
+C:\Users\ALUNOS\Desktop\Feudo\Feudo\obj\Debug\Feudo.frmFeudalismo.resources
+C:\Users\ALUNOS\Desktop\Feudo\Feudo\obj\Debug\Feudo.frmInstruções_de_Mapa.resources
+C:\Users\ALUNOS\Desktop\Feudo\Feudo\obj\Debug\Feudo.frmInstruções.resources
+C:\Users\ALUNOS\Desktop\Feudo\Feudo\obj\Debug\Feudo.frmMapa_Feudalismo.resources
+C:\Users\ALUNOS\Desktop\Feudo\Feudo\obj\Debug\Feudo.Properties.Resources.resources
+C:\Users\ALUNOS\Desktop\Feudo\Feudo\obj\Debug\Feudo.frmTowerDefense.resources
+C:\Users\ALUNOS\Desktop\Feudo\Feudo\obj\Debug\Feudo.csproj.GenerateResource.Cache
+F:\ \Feudo 1.25\Feudo 1.25\Feudo\Feudo\bin\Debug\Feudo.exe.config
+F:\ \Feudo 1.25\Feudo 1.25\Feudo\Feudo\obj\Debug\Feudo.exe
+F:\ \Feudo 1.25\Feudo 1.25\Feudo\Feudo\obj\Debug\Feudo.pdb

@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="musicPlayer\musicPlayer.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="musicPlayer\MagaMarte.cs">
+    <Files>
+      <File FileName="musicPlayer\MagaMarte.cs" Line="178" Column="113" />
+      <File FileName="musicPlayer\Program.cs" Line="19" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

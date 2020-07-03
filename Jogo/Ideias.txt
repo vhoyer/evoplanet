@@ -1,0 +1,43 @@
+Ponto de habilidades. De acordo com o que o personagem cresce no jogo, ele ganha lvl que aumenta todas as habilidades do personagem e ele ainda pode escolher uma habilidade para upar a mais.
+
+-------Eliminado
+
+Texto de inicio:
+No Vazio que se localiza o futuro universo, Um ponto verde aparece do nada e Sulga todo o nada proximo a ele. Quando grande esse ponto ficou grande, BUUUUM, e surgiu o mundo em que hoje vivemos...
+
+-------Feito
+
+Desenha na parede na pre historia aparecera e ajudara em uma pesquisa no futuro.
+
+Menu com as fazes que vc passou.
+
+As diferencas do futuro sera indicada por uma variavel pra cada um e dependendo das acoes do jogo, aumenta um ponto de cada um.
+
+--- LOCAIS ---
+Pre-Historia: Floresta(Campo de caca),--
+ Campo(Capturar),--
+ Biblioverna(Escritor de Historia), --
+ Museuverna(Desenhar),
+ Construcao(For++),--
+ Vulcao(Int++),--
+ Barverna(Car++) --
+
+Mesopotamia:
+
+--Feito
+
+Proficoes da pre historia:
+Escritor de historia,
+Cacador,
+catador  de comida,
+Cientista,
+Artista.
+
+-Eliminado
+
+
+Batalhas Emoticon grin
+
+--Time Line--
+
+Pre historia - Mesopotâmia - Egito - Roma/Arabis - Feudos/Arabis - *-*-*-* PIRATAS *-*-*-* - Presente - Futuro.

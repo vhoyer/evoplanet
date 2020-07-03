@@ -1,0 +1,90 @@
+c:\users\v.hoyer\documents\visual studio 2015\Projects\musicPlayer\musicPlayer\bin\Debug\musicPlayer.exe.config
+c:\users\v.hoyer\documents\visual studio 2015\Projects\musicPlayer\musicPlayer\bin\Debug\musicPlayer.exe
+c:\users\v.hoyer\documents\visual studio 2015\Projects\musicPlayer\musicPlayer\bin\Debug\musicPlayer.pdb
+c:\users\v.hoyer\documents\visual studio 2015\Projects\musicPlayer\musicPlayer\obj\Debug\musicPlayer.csprojResolveAssemblyReference.cache
+c:\users\v.hoyer\documents\visual studio 2015\Projects\musicPlayer\musicPlayer\obj\Debug\musicPlayer.Form1.resources
+c:\users\v.hoyer\documents\visual studio 2015\Projects\musicPlayer\musicPlayer\obj\Debug\musicPlayer.Properties.Resources.resources
+c:\users\v.hoyer\documents\visual studio 2015\Projects\musicPlayer\musicPlayer\obj\Debug\musicPlayer.csproj.GenerateResource.Cache
+c:\users\v.hoyer\documents\visual studio 2015\Projects\musicPlayer\musicPlayer\obj\Debug\musicPlayer.exe
+c:\users\v.hoyer\documents\visual studio 2015\Projects\musicPlayer\musicPlayer\obj\Debug\musicPlayer.pdb
+C:\Users\V.Hoyer\documents\visual studio 2015\Projects\musicPlayer\musicPlayer\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\V.Hoyer\documents\visual studio 2015\Projects\musicPlayer\musicPlayer\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\V.Hoyer\documents\visual studio 2015\Projects\musicPlayer\musicPlayer\obj\Debug\musicPlayer.MagaMarte.resources
+D:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\bin\Debug\musicPlayer.exe.config
+D:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.exe
+D:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.pdb
+E:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\bin\Debug\musicPlayer.exe.config
+E:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.exe
+E:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.pdb
+E:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.csprojResolveAssemblyReference.cache
+E:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.Form1.resources
+E:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.MagaMarte.resources
+E:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.Properties.Resources.resources
+E:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.csproj.GenerateResource.Cache
+D:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\bin\Debug\musicPlayer.exe
+D:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\bin\Debug\musicPlayer.pdb
+D:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\bin\Debug\Microsoft.Xna.Framework.dll
+D:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\bin\Debug\Microsoft.Xna.Framework.xml
+D:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.csprojResolveAssemblyReference.cache
+D:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.Form1.resources
+D:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.MagaMarte.resources
+D:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.Properties.Resources.resources
+D:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.csproj.GenerateResource.Cache
+F:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\bin\Debug\musicPlayer.exe.config
+F:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.exe
+F:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.pdb
+F:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\bin\Debug\musicPlayer.exe
+F:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\bin\Debug\musicPlayer.pdb
+F:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\bin\Debug\Microsoft.Xna.Framework.xml
+F:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.csprojResolveAssemblyReference.cache
+F:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.Form1.resources
+F:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.MagaMarte.resources
+F:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.Properties.Resources.resources
+F:\Documents\Ensino Técnico\Trab T.I - 2°semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.csproj.GenerateResource.Cache
+D:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\bin\Debug\musicPlayer.exe.config
+D:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.exe
+D:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.pdb
+D:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\bin\Debug\musicPlayer.exe
+D:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\bin\Debug\musicPlayer.pdb
+D:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\bin\Debug\Microsoft.Xna.Framework.dll
+D:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\bin\Debug\Microsoft.Xna.Framework.xml
+D:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.csprojResolveAssemblyReference.cache
+D:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.Form1.resources
+D:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.Properties.Resources.resources
+D:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.csproj.GenerateResource.Cache
+E:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\bin\Debug\musicPlayer.exe.config
+E:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.exe
+E:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.pdb
+E:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\bin\Debug\musicPlayer.exe
+E:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\bin\Debug\musicPlayer.pdb
+E:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\bin\Debug\Microsoft.Xna.Framework.xml
+E:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.csprojResolveAssemblyReference.cache
+E:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.Form1.resources
+E:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.Properties.Resources.resources
+E:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.csproj.GenerateResource.Cache
+D:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.MegaMarte.resources
+E:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.MegaMarte.resources
+D:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.Hardware.resources
+F:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\bin\Debug\musicPlayer.exe.config
+F:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.exe
+F:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.pdb
+F:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\bin\Debug\musicPlayer.exe
+F:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\bin\Debug\musicPlayer.pdb
+F:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\bin\Debug\Microsoft.Xna.Framework.xml
+F:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.csprojResolveAssemblyReference.cache
+F:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.Form1.resources
+F:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.Hardware.resources
+F:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.MegaMarte.resources
+F:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.Properties.Resources.resources
+F:\Documents\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.csproj.GenerateResource.Cache
+C:\Users\vhoye\OneDrive\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\bin\Debug\musicPlayer.exe.config
+C:\Users\vhoye\OneDrive\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.exe
+C:\Users\vhoye\OneDrive\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.pdb
+C:\Users\vhoye\OneDrive\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\bin\Debug\musicPlayer.exe
+C:\Users\vhoye\OneDrive\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\bin\Debug\musicPlayer.pdb
+C:\Users\vhoye\OneDrive\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.csprojResolveAssemblyReference.cache
+C:\Users\vhoye\OneDrive\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.Form1.resources
+C:\Users\vhoye\OneDrive\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.Hardware.resources
+C:\Users\vhoye\OneDrive\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.MegaMarte.resources
+C:\Users\vhoye\OneDrive\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.Properties.Resources.resources
+C:\Users\vhoye\OneDrive\Ensino Tecnico\Trab T.I - 2semestre\musicPlayer\musicPlayer\obj\Debug\musicPlayer.csproj.GenerateResource.Cache

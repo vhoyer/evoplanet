@@ -1,0 +1,258 @@
+E:\TI.2 - 2015\Jogo\Jogo\bin\Debug\Jogo.exe.config
+E:\TI.2 - 2015\Jogo\Jogo\bin\Debug\Jogo.exe
+E:\TI.2 - 2015\Jogo\Jogo\bin\Debug\Jogo.pdb
+E:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+E:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Abertura.resources
+E:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Batalha.resources
+E:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Casa.resources
+E:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Creditos.resources
+E:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.CriarConta.resources
+E:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.CSNewGame.resources
+E:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Login.resources
+E:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.PreHistoria.resources
+E:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.PreHistoriaMap.resources
+E:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+E:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+E:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.exe
+E:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.pdb
+G:\TI.2 - 2015\Jogo\Jogo\bin\Debug\Jogo.exe.config
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.exe
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.pdb
+G:\TI.2 - 2015\Jogo\Jogo\bin\Debug\Jogo.exe
+G:\TI.2 - 2015\Jogo\Jogo\bin\Debug\Jogo.pdb
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Abertura.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Batalha.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Casa.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Creditos.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.CriarConta.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.CSNewGame.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Login.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.frmMuseumverna.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.PreHistoria.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.PreHistoriaMap.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+E:\ \TI.2 - 2015\Jogo\Jogo\bin\Debug\Jogo.exe.config
+E:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.exe
+E:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.pdb
+E:\ \TI.2 - 2015\Jogo\Jogo\bin\Debug\Jogo.exe
+E:\ \TI.2 - 2015\Jogo\Jogo\bin\Debug\Jogo.pdb
+E:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+E:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Abertura.resources
+E:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Batalha.resources
+E:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Casa.resources
+E:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Creditos.resources
+E:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.CriarConta.resources
+E:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.CSNewGame.resources
+E:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Login.resources
+E:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.frmMuseumverna.resources
+E:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.PreHistoria.resources
+E:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.PreHistoriaMap.resources
+E:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+E:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+E:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.CSFinalPH.resources
+G:\ \TI.2 - 2015\Jogo\Jogo\bin\Debug\Jogo.exe.config
+G:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.exe
+G:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.pdb
+G:\ \TI.2 - 2015\Jogo\Jogo\bin\Debug\Jogo.exe
+G:\ \TI.2 - 2015\Jogo\Jogo\bin\Debug\Jogo.pdb
+G:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+G:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Abertura.resources
+G:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Batalha.resources
+G:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Casa.resources
+G:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Creditos.resources
+G:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.CriarConta.resources
+G:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.CSFinalPH.resources
+G:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.CSNewGame.resources
+G:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Login.resources
+G:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.frmMuseumverna.resources
+G:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.PreHistoria.resources
+G:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.PreHistoriaMap.resources
+G:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+G:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+G:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Capitulos.resources
+D:\ \TI.2 - 2015\Jogo\Jogo\bin\Debug\Jogo.exe.config
+D:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.exe
+D:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.pdb
+D:\ \TI.2 - 2015\Jogo\Jogo\bin\Debug\Jogo.exe
+D:\ \TI.2 - 2015\Jogo\Jogo\bin\Debug\Jogo.pdb
+D:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+D:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Abertura.resources
+D:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Batalha.resources
+D:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Capitulos.resources
+D:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Casa.resources
+D:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Creditos.resources
+D:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.CriarConta.resources
+D:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.CSFinalPH.resources
+D:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.CSNewGame.resources
+D:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Login.resources
+D:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Meso.resources
+D:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.frmMuseumverna.resources
+D:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.PreHistoria.resources
+D:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.PreHistoriaMap.resources
+D:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+D:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+E:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Capitulos.resources
+F:\ \TI.2 - 2015\Jogo\Jogo\bin\Debug\Jogo.exe.config
+F:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.exe
+F:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.pdb
+F:\ \TI.2 - 2015\Jogo\Jogo\bin\Debug\Jogo.exe
+F:\ \TI.2 - 2015\Jogo\Jogo\bin\Debug\Jogo.pdb
+F:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+F:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Abertura.resources
+F:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Batalha.resources
+F:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Capitulos.resources
+F:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Casa.resources
+F:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Creditos.resources
+F:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.CriarConta.resources
+F:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.CSFinalPH.resources
+F:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.CSNewGame.resources
+F:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Login.resources
+F:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.frmMuseumverna.resources
+F:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.PreHistoria.resources
+F:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.PreHistoriaMap.resources
+F:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+F:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+E:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Sperm.resources
+E:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Meso.resources
+F:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo._0.Abertura.Instru.resources
+F:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Meso.resources
+F:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Sperm.resources
+F:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo._5.Piratas.Ilha1.resources
+E:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo._0.Abertura.Instru.resources
+E:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo._5.Piratas.Ilha1.resources
+E:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Feudo.frmFeudalismo.resources
+E:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Feudo.frmInstruTD.resources
+E:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Feudo.frmMapa_Feudalismo.resources
+E:\ \TI.2 - 2015\Jogo\Jogo\obj\Debug\Feudo.frmTowerDefense.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo._0.Abertura.Instru.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Capitulos.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Feudo.frmFeudalismo.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Feudo.frmInstruTD.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Feudo.frmMapa_Feudalismo.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Feudo.frmTowerDefense.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.CSFinalPH.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Sperm.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Teste.FrmBatalha.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Teste.frmRomaInicio.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Teste.frmRoma.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.frmMapa.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.frmMeso.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.frmFrogger.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo._3.Roma.CSNewRoma.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo._4.Feudos.CSNewFeudo.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.Hardware.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo.MegaMarte.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo._7._1.FuturoBom.FuturoB.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo._7._1.FuturoBom.FuturoBMap.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo._7._2.FuturoRuim.FuturoR.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo._7._2.FuturoRuim.FuturoRMap.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\musicPlayer.MegaMarte.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo._6.Presente.Presente1.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo._6.Presente.CSNewPresente.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo._7._1.FuturoBom.CSFuturoBom.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo._7._2.FuturoRuim.CSFuturoRuim.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo._3.Roma.InstruMeso.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo._3.Roma.InstruRoma.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo._7._1.FuturoBom.InstruFuturo.resources
+G:\TI.2 - 2015\Jogo\Jogo\obj\Debug\Jogo._1.PH.InstruPH.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo.exe
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo.pdb
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\bin\Debug\Jogo.exe
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\bin\Debug\Jogo.pdb
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo.Abertura.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo.Hardware.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo._0.Abertura.Instru.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo.Batalha.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo.Capitulos.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo._1.PH.InstruPH.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo.frmFrogger.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo.frmMapa.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo.frmMeso.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Teste.FrmBatalha.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo._3.Roma.CSNewRoma.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Teste.frmRomaInicio.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo._3.Roma.InstruMeso.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo._3.Roma.InstruRoma.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Teste.frmRoma.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo._4.Feudos.CSNewFeudo.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Feudo.frmFeudalismo.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Feudo.frmInstruTD.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Feudo.frmMapa_Feudalismo.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Feudo.frmTowerDefense.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo._6.Presente.CSNewPresente.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo._6.Presente.Presente1.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo._7._1.FuturoBom.CSFuturoBom.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo._7._1.FuturoBom.FuturoB.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo._7._1.FuturoBom.FuturoBMap.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo._7._1.FuturoBom.InstruFuturo.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo.MegaMarte.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo._7._2.FuturoRuim.CSFuturoRuim.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo._7._2.FuturoRuim.FuturoR.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo._7._2.FuturoRuim.FuturoRMap.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\musicPlayer.MegaMarte.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo.Casa.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo.Creditos.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo.CriarConta.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo.CSFinalPH.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo.CSNewGame.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo.Login.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo.frmMuseumverna.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo.PreHistoria.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo.PreHistoriaMap.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo.Sperm.resources
+C:\Users\V.Hoyer\OneDrive\Trab T.I - 2semestre\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\bin\Debug\Jogo.exe
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\bin\Debug\Jogo.pdb
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo.Abertura.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo.Hardware.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo._0.Abertura.Instru.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo.Batalha.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo.Capitulos.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo._1.PH.InstruPH.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo.frmFrogger.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo.frmMapa.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo.frmMeso.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Teste.FrmBatalha.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo._3.Roma.CSNewRoma.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Teste.frmRomaInicio.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo._3.Roma.InstruMeso.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo._3.Roma.InstruRoma.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Teste.frmRoma.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo._4.Feudos.CSNewFeudo.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Feudo.frmFeudalismo.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Feudo.frmInstruTD.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Feudo.frmMapa_Feudalismo.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Feudo.frmTowerDefense.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo._6.Presente.CSNewPresente.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo._6.Presente.Presente1.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo._7._1.FuturoBom.CSFuturoBom.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo._7._1.FuturoBom.FuturoB.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo._7._1.FuturoBom.FuturoBMap.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo._7._1.FuturoBom.InstruFuturo.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo.MegaMarte.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo._7._2.FuturoRuim.CSFuturoRuim.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo._7._2.FuturoRuim.FuturoR.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo._7._2.FuturoRuim.FuturoRMap.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\musicPlayer.MegaMarte.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo.Casa.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo.Creditos.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo.CriarConta.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo.CSFinalPH.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo.CSNewGame.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo.Login.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo.frmMuseumverna.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo.PreHistoria.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo.PreHistoriaMap.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo.Sperm.resources
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.cache
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo.csproj.CoreCompileInputs.cache
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo.exe
+C:\Users\vhoye\MEOCloud\EnsinoTecnico\allTI\2semestre-TrabTI\Jogo\Jogo\obj\Debug\Jogo.pdb
